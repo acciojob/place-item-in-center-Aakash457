@@ -1,9 +1,8 @@
-.holder{
-	width:100px;
-	height:100px;
-	background-color:red;
-}
-
-.item-1{
-	text-align:center;
+.holder {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
